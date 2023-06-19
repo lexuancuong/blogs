@@ -50,9 +50,12 @@ For beginner, Neovim or Vim is really hard at the beginning time. To get used to
 
 1. Firstly, to get used To with Neovim, you could walk around with command: `vimtutor`. After getting familiar with Neovim style, you could switch to use the Vim officially.
 
-2. Secondly, I highly recommend you to try using Neovim mode in your existing IDE. It could help you avoid being overwhelmed by the Neovim world.
+2. Secondly, I highly recommend you to try using Vim mode in your existing IDE. It could help you avoid being overwhelmed by the Neovim world.
+![Vim VS Code Extension](./assets/vim-vscode.png)
 
-3. Try with an Nvim Template Project.
+3. Try with an Nvim Pre-configured Project.
+- There are 2 most popular Neovim pre-configured projects is: NVChad and LunarNeovim.
+(I prefer the NVChad because I started with it)
 
 4. Learn Lua and build your customized Neovim configuration. Here is step by step to configure your customized Neovim:
 
@@ -62,7 +65,13 @@ For beginner, Neovim or Vim is really hard at the beginning time. To get used to
 
 - Choose needed plugins depend on your demand
 
-- Key mappings for internal neovim and installed plugins.
+- Key mappings for internal components and installed plugins. (**Tips**: Map `Caps lock` as `Esc` for quick movement).
+
+- Set up LSP for neovim with your expected programing language and coding style.
+
+5. [Optional] Join channel about Neovim to catch up the happening Neovim world:
+- Reddit: https://www.reddit.com/t/neovim/
+
 
 ## Neovim Plugins
 - What is IDE.
@@ -92,6 +101,9 @@ https://github.com/lewis6991/gitsigns.nvim
 Awssome plugins list:
 https://github.com/rockerBOO/awesome-neovim
 
+Disclamer: Because Neovim can easily insert debugging code (log some thing or breakpoint() in Python) and switch to executing terminal pannel,
+so I don't use any debugger with Neovim in Python. In case, you need a debugger tool in Neovim, [nvim-dap](https://github.com/mfussenegger/nvim-dap) could help you.
+
 ## Neovim Challenges
 Challenges with NeoVim:
 1. Take a lot of time and effort at the begining time.
@@ -109,11 +121,11 @@ Challenges with NeoVim:
 | *Need an optimized work philosophy (source: Steen Schledermann)* |
 
 ## Conclusion
-- Vim or Neovim is recommended by many famous universities for programing students or software engineer and developers.
+- With a lot of benefit for productivity, Vim or Neovim is recommended by many famous universities for programing students or software engineer and developers.
 ![CS107 from Standford](./assets/standford_cs107.png)
 ![MIT missing semester course](./assets/mit_missing_course.png)
 
-For choosing an IDE, there is no best solution, just go ahead with your most suitable or familiar one.
+With an emptyness thinking, for choosing an IDE, there is no best solution, just go ahead with your most suitable or familiar one.
 
 Take everything with a grain of salt. Just be yourself.
 
