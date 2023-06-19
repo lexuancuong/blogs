@@ -29,9 +29,11 @@ It avoid moving from alpha area to arrow are on the keyboard and from the keyboa
 
 
 ## The evolution from Vim to Neovim.
-NeoVim is an open source project that forked from Vim to resolve Vim's headache issues:
+NeoVim is an open source project that forked from Vim to resolve Vim's headache issues. 
+The NeoVim movement style is the same as Vim. 
+Neovim has following outstanding points over Vim:
 
-- Allow contributions from community. The community support from Neovim is better than Vim when Neovim has 66.8 Github star (Jun 18 2023) and 1000 contributors while Vim just has 30.5k with 195 contributors.
+- The community support from Neovim is better than Vim when Neovim has 66.8 Github star (Jun 18 2023) and 1000 contributors while Vim just has 30.5k with 195 contributors.
 
 - Configure in Lua with awsome plugins: Tresiter, LSP, Telescope.
 
