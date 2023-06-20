@@ -27,6 +27,7 @@ It avoid moving from alpha area to arrow are on the keyboard and from the keyboa
 
 - Tmux for panel and window management on Terminal environment.
 
+4. Fast and aligned shortcuts by community. We don't need to create a lot of shortcuts by yourself, just need to learn Neovim shortcuts.
 
 ## The evolution from Vim to Neovim.
 NeoVim is an open source project that forked from Vim to resolve Vim's headache issues. 
@@ -122,6 +123,7 @@ Challenges with NeoVim:
 |:--:|
 | *Need an optimized work philosophy (source: Steen Schledermann)* |
 
+3. Some disavantages with modern file format or require UI to visualize.
 ## Conclusion
 - With a lot of benefit for productivity, Vim or Neovim is recommended by many famous universities for programing students or software engineer and developers.
 ![CS107 from Standford](./assets/standford_cs107.png)
