@@ -32,14 +32,13 @@ It avoids moving from the alpha area to the arrow area on the keyboard and vice 
 3. Fast and aligned shortcuts by the community. We don't need to create a lot of shortcuts by ourselves, just need to learn Neovim shortcuts by default.
    
 4. When you are familiar with the Vim movement, you can use tools inspired by Vim to enhance productivity:
-
-- K9s for Kubernetes management.
-
-- Vimimum Extension on Chrome.
-
 - LazyGit for Git Version Control.
 
+- K9s for Kubernetes management.
+  
 - Tmux for panel and window management on the Terminal environment.
+
+- Vimimum Extension on Chrome.
 
 ## Vim to Neovim
 NeoVim is an open-source project that forked from Vim to resolve Vim's headache issues. 
