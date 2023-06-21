@@ -14,7 +14,7 @@ My thoughts about using Neovim and some hands-on practices to start with it.
 5. Neovim Challenges
 - The Neovim World is not pink.
 6. Conclusion
-  
+
 ## Overview
 Vim is an improved version of Vi with more features.
 Vim is a command line text editor on Linux, macOS, and Windows. Vim is the most popular editor in the world.
@@ -30,18 +30,18 @@ It avoids moving from the alpha area to the arrow area on the keyboard and vice 
 
 
 3. Fast and aligned shortcuts by the community. We don't need to create a lot of shortcuts by ourselves, just need to learn Neovim shortcuts by default.
-   
+
 4. When you are familiar with the Vim movement, you can use tools inspired by Vim to enhance productivity:
 - LazyGit for Git Version Control.
 
 - K9s for Kubernetes management.
-  
+
 - Tmux for panel and window management on the Terminal environment.
 
 - Vimimum Extension on Chrome.
 
 ## Vim to Neovim
-NeoVim is an open-source project that forked from Vim to resolve Vim's headache issues. 
+NeoVim is an open-source project that forked from Vim to resolve Vim's headache issues.
 Therefore, the NeoVim movement behaviors are the same as Vim.
 Neovim has the following improvement points over Vim:
 - Configure in Lua with awesome plugins and features: Tresiter, LSP config, Telescope...
@@ -97,6 +97,7 @@ In this part, I will show Neovim plugins that you could install to make Neovim w
 The Language Server Protocol (LSP) defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references, etc.
 
 - Telescope for searching, and previewing files, and words.
+
 | ![Telescope Demo](./assets/telescope.gif) |
 |:--:|
 | *(source: Telescope Github Repo)* |
@@ -128,12 +129,17 @@ Challenges with NeoVim:
 
 |![We are too busy](./assets/weel-too-busy.png)|
 |:--:|
-| *Need an optimized work philosophy (source: Steen Schledermann)* |
+| *Need an optimized work mindset (source: Steen Schledermann)* |
 
 ## Conclusion
 - With a lot of benefits for productivity, Vim or Neovim is recommended by many famous universities for programming students or software engineers and developers.
 ![CS107 from Standford](./assets/standford_cs107.png)
 ![MIT missing semester course](./assets/mit_missing_course.png)
+
+NeoVim is not just an editor:
+- It is the way to help you bare and get used to strict rules
+- Build a refactoring works mindset
+- Easily use other tools in the same behavior as Vim to enhance productivity.
 
 For choosing an IDE, there is no best solution, just go ahead with your most suitable or familiar one.
 
