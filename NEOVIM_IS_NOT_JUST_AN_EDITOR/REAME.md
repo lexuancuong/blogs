@@ -1,4 +1,4 @@
-# NEOVIM INTRODUCTION
+# NEOVIM IS NOT JUST AN EDITOR
 My thoughts about using Neovim and some hands-on practices to start with it.
 
 ## Outline
@@ -44,7 +44,7 @@ It avoids moving from the alpha area to the arrow area on the keyboard and vice 
 NeoVim is an open-source project that forked from Vim to resolve Vim's headache issues.
 Therefore, the NeoVim movement behaviors are the same as Vim.
 Neovim has the following improvement points over Vim:
-- Configure in Lua with awesome plugins and features: Tresiter, LSP config, Telescope...
+- Configure in Lua with awesome plugins and features: nvim-treesiter, lsp-config, telescope...
 
 - The community support from Neovim is better than Vim: Neovim has 66.8 Github stars (On Jun 18, 2023) and 1000 contributors while Vim has 30.5k with 195 contributors.
 ![Neovim is popular as Vim](./assets/best_editor_survey.jpg)
@@ -91,7 +91,7 @@ You already knew the Neovim with a lot of great features in the previous part.
 In this part, I will show Neovim plugins that you could install to make Neovim work as an IDE.
 - Nvim-tree: A File Explorer For Neovim Written In Lua
 
-- Tresiter for Syntax Highlighting.
+- nvim-treesiter for Syntax Highlighting.
 
 - LSP-config for integrating with LSP and Nvim-cmp for auto-completion.
 The Language Server Protocol (LSP) defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references, etc.
