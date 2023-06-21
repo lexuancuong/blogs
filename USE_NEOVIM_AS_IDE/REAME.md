@@ -68,7 +68,7 @@ To get used to it, you could follow my proposal roadmap:
 
 3. Try with a Nvim Pre-configured Project.
 - There are 2 most popular Neovim pre-configured projects: NVChad and LunarNeovim.
-(I prefer the NVChad because I started with it)
+(I prefer the NVChad because its structure is simple and easy to extend with detailed docs)
 
 4. Learn Lua and build your customized Neovim configuration. Here is step by step to configure your customized Neovim:
 
