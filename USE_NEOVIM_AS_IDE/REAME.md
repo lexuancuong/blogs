@@ -51,7 +51,7 @@ Neovim has the following improvement points over Vim:
 
 - Floating UI support to allow plugins to create smart UI/UX on the terminal environment.
 
-- With lazy options, to speed up loading multiple plugins at starting time.
+- With lazy options, to speed up loading installed plugins at starting time.
 
 - Nvim loads the config from the ~/.config/ but Vim is not. Vim's config file is `~/.vimrc`. Centralize configuration in the ~/.config/ folder could back up easily later.
 
